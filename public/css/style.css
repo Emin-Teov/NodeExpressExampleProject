@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    margin-top: 2vh;
+}
+
+table{
+    margin-top: 2vh;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    background-color: #282a2b;
+}
